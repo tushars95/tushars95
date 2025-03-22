@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Tushar Singh</h1>
-<h3 align="center">Data Scientist & AI/ML Engineer with a passion for Generative AI, Predictive Modeling, and Cloud Solutions</h3>
+<h3 align="center">Data Scientist with a passion for Generative AI, Predictive Modeling, and Cloud Solutions</h3>
 
 - 🔭 I’m currently working on **Scalable AI solutions**
 
